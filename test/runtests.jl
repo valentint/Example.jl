@@ -1,6 +1,4 @@
-using Example
-using Test
+using Test, Example
 
-@testset "Example.jl" begin
-    # Write your tests here.
-end
+@test hello("Julia") == "Hello, Julia"
+@test domath(2.0) ≈ 7.0
