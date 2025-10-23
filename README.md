@@ -3,9 +3,10 @@ Example Julia package repo.
 [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://valentint.github.io/Example.jl/stable)
 [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://valentint.github.io/Example.jl/dev)
 
-GitHub Actions : 
+GitHub Actions: 
 [![Build Status](https://github.com/valentint/Example.jl/workflows/CI/badge.svg)](https://github.com/valentint/Example.jl/actions?query=workflow%3ACI+branch%3Amain)
 [![Build Status](https://github.com/valentint/Example.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/valentint/Example.jl/actions/workflows/CI.yml?query=branch%3Amain)
+
 Code coverage: 
 [![codecov](https://codecov.io/gh/valentint/Example.jl/graph/badge.svg?token=yY3RYoqwbn)](https://codecov.io/gh/valentint/Example.jl)
 
